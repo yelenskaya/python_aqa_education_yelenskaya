@@ -18,3 +18,5 @@ pytest-cov==3.0.0
 toml==0.10.2
 tomli==1.2.1
 wrapt==1.12.1
+
+texttable~=1.6.4
