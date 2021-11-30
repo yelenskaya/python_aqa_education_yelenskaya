@@ -1,0 +1,89 @@
+
+3.10.1 Documentation 
+[34mDownload these documents[39m 
+[34mPython 3.11 (in development)[39m 
+[34mPython 3.10 (stable)[39m 
+[34mPython 3.9 (stable)[39m 
+[34mPython 3.8 (security-fixes)[39m 
+[34mPython 3.7 (security-fixes)[39m 
+[34mPython 3.6 (security-fixes)[39m 
+[34mPython 3.5 (EOL)[39m 
+[34mPython 2.7 (EOL)[39m 
+[34mAll versions[39m 
+[34mPEP Index[39m 
+[34mBeginner's Guide[39m 
+[34mBook List[39m 
+[34mAudio/Visual Talks[39m 
+[34mPython Developerâs Guide[39m 
+[34mindex[39m 
+[34mmodules[39m  | 
+[34mPython[39m  » 
+[34m3.10.1 Documentation[39m  »
+|
+Welcome! This is the official documentation for Python 3.10.1.
+[34mWhat's new in Python 3.10?[39m 
+or  [34mall "What's new" documents[39m  since 2.0 
+[34mTutorial[39m 
+start here 
+[34mLibrary Reference[39m 
+keep this under your pillow 
+[34mLanguage Reference[39m 
+describes syntax and language elements 
+[34mPython Setup and Usage[39m 
+how to use Python on different platforms 
+[34mPython HOWTOs[39m 
+in-depth documents on specific topics 
+[34mInstalling Python Modules[39m 
+installing from the Python Package Index & other sources 
+[34mDistributing Python Modules[39m 
+publishing modules for installation by others 
+[34mExtending and Embedding[39m 
+tutorial for C/C++ programmers 
+[34mPython/C API[39m 
+reference for C/C++ programmers 
+[34mFAQs[39m 
+frequently asked questions (with answers!) 
+[34mGlobal Module Index[39m 
+quick access to all modules 
+[34mGeneral Index[39m 
+all functions, classes, terms 
+[34mGlossary[39m 
+the most important terms explained 
+[34mSearch page[39m 
+search this documentation 
+[34mComplete Table of Contents[39m 
+lists all sections and subsections 
+[34mReporting bugs[39m 
+[34mContributing to Docs[39m 
+[34mAbout the documentation[39m 
+[34mHistory and License of Python[39m 
+[34mCopyright[39m 
+[34mDownload these documents[39m 
+[34mPython 3.11 (in development)[39m 
+[34mPython 3.10 (stable)[39m 
+[34mPython 3.9 (stable)[39m 
+[34mPython 3.8 (security-fixes)[39m 
+[34mPython 3.7 (security-fixes)[39m 
+[34mPython 3.6 (security-fixes)[39m 
+[34mPython 3.5 (EOL)[39m 
+[34mPython 2.7 (EOL)[39m 
+[34mAll versions[39m 
+[34mPEP Index[39m 
+[34mBeginner's Guide[39m 
+[34mBook List[39m 
+[34mAudio/Visual Talks[39m 
+[34mPython Developerâs Guide[39m 
+[34mindex[39m 
+[34mmodules[39m  | 
+[34mPython[39m  » 
+[34m3.10.1 Documentation[39m  »
+|
+©  [34mCopyright[39m  2001-2021, Python Software Foundation.
+This page is licensed under the Python Software Foundation License Version 2.
+Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License.
+See  [34mHistory and License[39m  for more information.
+The Python Software Foundation is a non-profit corporation.
+[34mPlease donate.[39m 
+Last updated on Dec 11, 2021.
+[34mFound a bug[39m ?
+Created using  [34mSphinx[39m  3.2.1.

@@ -26,6 +26,7 @@ wrapt = "==1.12.1"
 requests = "*"
 selenium = "==3.141.0"
 texttable = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
